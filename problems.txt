@@ -1,0 +1,4 @@
+Find GCD using Euclidian algorithm.
+Find the permutations and combinations of a list of numbers.
+Find the longest common substring in a given string.
+Knapsack problem.
